@@ -1,0 +1,115 @@
+root:[C:\Users\Administrator\Desktop\test]+
++--核心11
+|      +--01核心杨清书123
+|      |      +--018教学成果奖（省级）.pdf
+|      |      +--7-2016.pdf
+|      |      +--奖项2-中山大学教学成果奖证书.jpg
+|      |      +--奖项3-中山大学科研业绩突出个人奖-杨清书.jpg
+|      |      +--博士毕业证书.pdf
+|      |      +--职称-杨清授聘书.pdf
+|      |      +--计划2016YFC0402600项目任务书.pdf
+|      |      +--论文1-Yang Qingshu et al. - 2022 - Responses of tidal duration asymmetry to morphological changes in Lingding Bay of the Pearl River Estuary.pdf
+|      |      +--论文2-Earth Surf Processes Landf - 2021 - Jiang - The evolution of wave impacts on the anthropogenically altered Modaomen Estuary (1).pdf
+|      |      +--ontiers.pdf
+|      |      +--论文4-专著：河口潮波动力学.pdf
+|      |      +--伶仃洋河口湾动力地貌格局的异变研究.pdf
+|      |      +--负责人-珠江强咸潮区典型河口蓄淡水库战略储备关键技术研究（2016-20 ）.pdf
+|      |      +--负责人-珠江daw河口动力沉积地貌本底数据调查.pdf
+|      +--02核刘星成dsa
+|      |      +--刘星成 Paper1 IEEE IoTJ.pdf
+|      |      +--刘sda星成 Paper2 IEEE T-Com.pdf
+|      |      +--刘星成 教授聘书(本件仅用于办理2022-2023年度南方海洋实验室科研相关业务)M.pdf
+|      |      +--刘星成 证书1_广东省科技进步奖一等奖_本件仅用于办理相关业务.pdf
+|      |      +--刘星成 项目1_联合基金重点项目U2001204材料（计17页）.pdf
+|      |      +--刘星成 项目2_NSFC项目61873290 批准通知书.pdf
+|      |      +--刘星成博士学位证书(本件仅用于办理2022-2023年度Lab相关业务).pdf
+|      |      +--刘星成博士毕业证书(本件仅用于办理2022-2023年度Lab相关业务).pdf
+|      |      +--刘星成教授聘书(本件仅用于办理2022-2023年度Lab相关业务).pdf
+|      |      +--刘星成身份证件(本件仅用于办理2022-2023年度Lab相关业务).pdf
+|      +--03核心成员蔡华阳
+|      |      +--Cai2019_HESS.pdf
+|      |      +--Cai2020_HESS.pdf
+|      |      +--Zhang2021_CE.pdf
+|      |      +--在职证明-蔡华阳.pdf
+|      |      +--学历证明-蔡华阳.pdf
+|      |      +--学术专著_河口潮波动力学2020.pdf
+|      |      +--面上项目证明2023-2026.pdf
+|      +--04核心成员刘锋
+|      |      +--1-s2.0-S0025326X18302595-main.pdf
+|      |      +--14刘锋-海工.pdf
+|      |      +--2博士学位证书.pdf
+|      |      +--4代表性成果JH.pdf
+|      |      +--7代表性成果.pdf
+|      |      +--9 面上科研项目证明.pdf
+|      |      +--刘老师在职证明.pdf
+|      |      +--国家重点研发课题子课题.pdf
+|      +--05核心成员任磊
+|      |      +--2020100762566发明专利证书-海表流速获取方法、装置、计算机设备和存储介质-20210926.pdf
+|      |      +--2020101318021发明专利证书-海表流流速预测方法、装置、计算机设备和存储介质.pdf
+|      |      +--国自然基金.pdf
+|      |      +--论文1.pdf
+|      |      +--论文2.pdf
+|      +--06核心成员魏稳
+|      |      +--附件1-1.pdf
+|      |      +--附件1-2.pdf
+|      |      +--附件5-1.pdf
+|      |      +--附件5-2.pdf
+|      |      +--附件5-3.pdf
+|      |      +--附件5-4.pdf
+|      |      +--附件5-5.pdf
+|      +--07核心成员曹超
+|      |      +--附件2-1-研究员职称证明.pdf
+|      |      +--附件2-10-Vulnerability in Mainland China Based on Fuzzy Evaluation of Cloud Models.pdf
+|      |      +--附件2-11-Disturbed climate changes preserved in terrigenous sediments associated with anthropogenic activities during the last century in the Taiwan Strait.pdf
+|      |      +--附件2-12-Temporal and spatial characteristics of sediment sources on the southern Yangtze Shoal over the Holocene.pdf
+|      |      +--附件2-13-一种基于云模型理论的海岸侵蚀脆弱性评估方法.pdf
+|      |      +--附件2-14-一种基于MABAC综合算法的海岸侵蚀强度评价方法.pdf
+|      |      +--附件2-15-基于高斯云混合云模型的海岸侵蚀脆弱性评估软件.pdf
+|      |      +--附件2-16-基于AHP云模型的海岸侵蚀脆弱性评估软件.pdf
+|      |      +--附件2-17-基于多算法模型的海岸侵蚀脆弱性评估系统.pdf
+|      |      +--附件2-18-海洋三所首届优秀青年科学家.pdf
+|      |      +--附件2-2-博士学历学位证书.pdf
+|      |      +--附件2-3-博士后证.pdf
+|      |      +--附件2-4-福建省地质学会副理事长.pdf
+|      |      +--附件2-5-中国海洋工程咨询协会海洋预报减灾分会理事.pdf
+|      |      +--附件2-6-福建省地质学会优秀论文二等奖.pdf
+|      |      +--附件2-7-国家自然科学基金面上项目.pdf
+|      |      +--附件2-8-Rapid migration of  China’s mainland coastal erosion vulnerability due to anthropogenic changes.pdf
+|      |      +--附件2-9-Vulnerability Evolution of Coastal Erosion in the Pearl River Estuary Great Bay Area Due to the Influence of Human Activities in the Past Forty Years.pdf
+|      +--08核心成员赵绍华
+|      |      +--附件3-1-取得职称的通知.pdf
+|      |      +--附件3-10-海滩养护与修复工程验收技术方法(HY T 0330-2022)-发布稿.pdf
+|      |      +--附件3-2-博士毕业证.pdf
+|      |      +--附件3-3-项目1_博士后基金资助证书.pdf
+|      |      +--附件3-4-项目2_自然科学基金获批通知书.pdf
+|      |      +--附件3-5-研究论文1 Zhao SH et al. (2020, Earth Surface Processes and Landforms).pdf
+|      |      +--附件3-6-研究论文2 Zhao SH et al. (2020, Geomorphology).pdf
+|      |      +--附件3-7-研究论文3 Zhao SH et al. (2021, Marine Geology).pdf
+|      |      +--附件3-8-研究论文4 Zhao SH et al. (2018, Paleoceanography and Paleoclimatology).pdf
+|      |      +--附件3-9-研究论文5 Zhao SH et al. (2017, Science China Earth Sciences).pdf
+|      +--09核心成员刘根
+|      |      +--附件4-1 博士毕业证书.pdf
+|      |      +--附件4-2 国家自然科学基金青年基金.pdf
+|      |      +--附件4-3 202205 Liu G_ESPL_Initial morphological responses of coastal beaches to a mega offshore artificial.pdf
+|      |      +--附件4-4 202103 Liu G_JMSE_Morphodynamic Evolution of Post-Nourishment Beach Scarps in Low-Energy and Micro-Tidal Environment.pdf
+|      |      +--附件4-5 201907 Liu G_JCR_Morphodynamic Evolution and Adaptability of Nourished Beaches.pdf
+|      |      +--附件4-6 201907 Liu G_OCM_A method to nourished beach stability assessment_ The case of China.pdf
+|      |      +--附件4-7
+|      |      |      +--标准1 HY T 254-2018 海滩质量评价与分级.pdf
+|      |      |      +--标准2 海岸带生态减灾修复技术导则__第 7 部分：砂质海岸.pdf
+|      |      |      +--标准3 海岸带生态系统现状调查与评估技术导则 第8部分：砂质海岸.pdf
+|      |      |      +--论文1 人工岛影响下的海滩修复对策研究.pdf
+|      |      |      +--论文10 Foredune height variations along the western coast of Taiwan Strait.pdf
+|      |      |      +--论文11 A summary of beach nourishment in China The past decade of practices.pdf
+|      |      |      +--论文12 我国海滩养护修复的发展与技术创新.pdf
+|      |      |      +--论文13 海滩修复养护技术发展趋势与前景.pdf
+|      |      |      +--论文2 海滩养护修复过程中拦沙堤的应用.pdf
+|      |      |      +--论文3 不同受损情况下珊瑚礁海岸动力地貌差异性分析.pdf
+|      |      |      +--论文4 人工岛建设对海口湾沉积特征与泥沙运移的影响.pdf
+|      |      |      +--论文5 高分影像砂质海岸线精细提取及校正方法.pdf
+|      |      |      +--论文6 沉积物供给影响下厦门岛东南部海滩响应差异性研究_朱晓晶.pdf
+|      |      |      +--论文7 Vulnerability Evolution of Coastal Erosion in the Pearl River Estuary Great Bay Area Due to the Infl.pdf
+|      |      |      +--论文8 Rapid migration of mainland China's coastal erosion vulnerability due to anthropogenic changes.pdf
+|      |      |      +--论文9 Influences of beach berm height on beach response to storms_ A numerical study.pdf
+|      |      |      +--项目1 自然资源部华东海岸带野外科学观测研究站开放基金合同.pdf
+|      |      |      +--项目2 人工岛影响下的养护海滩演变研究.pdf
